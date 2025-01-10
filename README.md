@@ -1,6 +1,4 @@
-# 小红书笔记生成器 (XHS Note Generator)
 
-🎥 一键将视频转换为优质小红书笔记，自动优化内容和配图
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8+-green.svg)
